@@ -12,4 +12,4 @@ def getFiles(dir_name):
                     f.write("\n")
 
 if __name__ == "__main__": 
-    getDesp(sys.argv[1])
+    getFiles(sys.argv[1])
